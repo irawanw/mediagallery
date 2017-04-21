@@ -1,0 +1,14 @@
+[07-Sep-2016 12:05:28 Asia/Jakarta] PHP Notice:  Undefined variable: selfie in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 104
+[07-Sep-2016 12:05:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 104
+[07-Sep-2016 12:05:28 Asia/Jakarta] PHP Notice:  Undefined variable: videos in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 118
+[07-Sep-2016 12:05:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 118
+[07-Sep-2016 12:05:39 Asia/Jakarta] PHP Notice:  Undefined variable: files in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 90
+[07-Sep-2016 12:05:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 90
+[07-Sep-2016 12:05:39 Asia/Jakarta] PHP Notice:  Undefined variable: selfie in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 104
+[07-Sep-2016 12:05:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 104
+[07-Sep-2016 12:05:39 Asia/Jakarta] PHP Notice:  Undefined variable: videos in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 118
+[07-Sep-2016 12:05:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 118
+[05-Oct-2016 04:17:55 Asia/Jakarta] PHP Notice:  Undefined variable: selfie in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 104
+[05-Oct-2016 04:17:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 104
+[05-Oct-2016 04:17:55 Asia/Jakarta] PHP Notice:  Undefined variable: videos in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 118
+[05-Oct-2016 04:17:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/iwikodev/public_html/mediagallery/my-videos/index.php on line 118

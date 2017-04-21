@@ -1,0 +1,5 @@
+#RedirectMatch 301 /guest/s/default/(.*) /wifi/$1
+#RewriteBase /wifi/
+#RewriteCond %{THE_REQUEST} ^GET\ /wp-admin/
+#RewriteRule ^wp-admin/$ gwrtcc3565dcb/$1 [R,L]
+#RewriteRule ^guest/s/default/(.*)$ /wifi/$1

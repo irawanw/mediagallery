@@ -1,0 +1,6 @@
+[18-May-2015 21:33:20 UTC] PHP Fatal error:  Problem preparing query (UPDATE customers SET `active` = ? WHERE  id = ? ) Unknown column 'active' in 'field list' in /home/irawan/public_html/wifi/includes/classes/MysqliDB.php on line 981
+[18-May-2015 21:33:52 UTC] PHP Fatal error:  Problem preparing query (UPDATE customers SET `active` = ? WHERE  id = ? ) Unknown column 'active' in 'field list' in /home/irawan/public_html/wifi/includes/classes/MysqliDB.php on line 981
+[18-May-2015 21:35:06 UTC] PHP Fatal error:  Problem preparing query (UPDATE customers SET `active` = ? WHERE  id = ? ) Unknown column 'active' in 'field list' in /home/irawan/public_html/wifi/includes/classes/MysqliDB.php on line 981
+[22-May-2015 15:12:17 UTC] PHP Fatal error:  Call to a member function recurringtransaction() on a non-object in /home/irawan/public_html/wifi/cron/charge-recurring.php on line 21
+[22-May-2015 15:40:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/irawan/public_html/wifi/cron/charge-recurring.php on line 14
+[22-May-2015 15:40:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/irawan/public_html/wifi/cron/charge-recurring.php on line 14

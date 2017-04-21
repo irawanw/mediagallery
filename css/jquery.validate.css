@@ -1,0 +1,12 @@
+label.error{	
+	width: auto;	
+	display: block;	
+	color: red;
+}
+
+label.error2{	
+	width: auto;	
+	float: left;	
+	color: red;	
+	margin-left: 47%;
+}
